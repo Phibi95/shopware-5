@@ -86,6 +86,7 @@ Ext.define('Shopware.apps.ArticleList.view.main.Grid', {
         'Detail_purchaseSteps': '{s name="columns/product/Detail_purchaseSteps"}Detail_purchaseSteps{/s}',
         'Detail_maxPurchase': '{s name="columns/product/Detail_maxPurchase"}Detail_maxPurchase{/s}',
         'Detail_purchaseUnit': '{s name="columns/product/Detail_purchaseUnit"}Detail_purchaseUnit{/s}',
+        'Detail_purchasePrice': '{s name="columns/product/Detail_purchasePrice"}Detail_purchasePrice{/s}',
         'Detail_referenceUnit': '{s name="columns/product/Detail_referenceUnit"}Detail_referenceUnit{/s}',
         'Detail_packUnit': '{s name="columns/product/Detail_packUnit"}Detail_packUnit{/s}',
         'Detail_shippingFree': '{s name="columns/product/Detail_shippingFree"}Detail_shippingFree{/s}',
